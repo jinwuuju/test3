@@ -1,0 +1,20 @@
+{
+  "name": "하이닥호: 우주 치정 스릴러 10화",
+  "short_name": "하이닥호",
+  "description": "선택지를 통해 AI와 코딩을 배우는 우주 추리 게임",
+  "lang": "ko-KR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1030",
+  "theme_color": "#161c44",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
